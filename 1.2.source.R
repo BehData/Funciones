@@ -17,8 +17,12 @@ sumsq <- function(number_1, number_2){
 #sumsq(3, 4)
 
 
-# Sum of squares (3)
+# Sum of squares (a list of 3 numbers)
 
 sumsq3 <- function(number){
   square(number[1]) + square(number[2]) + square(number[3])
 }
+
+#test
+#a <- c(1,2,3)
+#sumsq3(a)
