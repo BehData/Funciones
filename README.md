@@ -1,2 +1,2 @@
 # Funciones 
-Capacitación sobre Introducción a Funciones en Pyhton y R
+Capacitación sobre introducción a funciones en Pyhton y R
